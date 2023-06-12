@@ -1,0 +1,10 @@
+* input-event-codes
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://git.sr.ht/~shunter/input-event-codes   |
+| commit  |   |
+| systems | input-event-codes |
+|---------+-------------------------------------------|
+
