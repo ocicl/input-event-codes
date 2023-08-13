@@ -4,8 +4,9 @@ This little library is a port of all constants found in
 input-event-codes.h, an event code header file found on both Linux and
 FreeBSD.
 
+
 |---------+--------------------------------------------------|
 | source  | git:https://git.sr.ht/~shunter/input-event-codes |
-| commit  | 9804fe1e                                         |
+| commit  | 9804fe1                                          |
 | systems | input-event-codes                                |
 |---------+--------------------------------------------------|
